@@ -1,15 +1,55 @@
 header {
-    background-color:orange;
+    background-color:orangered;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin: 0px;
+    position: relative;   
 }
+
+
+body {
+    margin: 0%
+}
+
 
 h1{ 
     font-size: 20px;
 }
 
-h2{ 
+
+h2 { 
     color: orangered;
 }
 
-P{
-    font-size: 20px;
+
+P {
+    font-size: 10px;
 }
+
+
+li {
+    font-size: 10px;
+}
+
+
+
+ .first-section {
+ background-color: orchid;
+border: dotted;
+padding: 10px;
+margin: 20px;
+ }
+
+ .second-section {
+     padding-left: 10px;
+ }
+
+ footer {
+    background-color: orangered;
+    padding-left: 10px;
+    padding-top: 10px;
+ }
+
+ #ibis-pic{
+     width: 20%;
+ }
