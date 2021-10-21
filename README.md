@@ -1,6 +1,6 @@
 How to create a website
 
-##index
+## Index
 1. set up the environment
 2. Create the html
 3. 3
@@ -17,3 +17,8 @@ How to create a website
 - Doctype
 - html, head and body tags
 - Header and paragraphs
+
+## Styling
+- Orange background for the header
+- Link CSS file in the html
+
